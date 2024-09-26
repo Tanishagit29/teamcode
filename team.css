@@ -1,0 +1,652 @@
+.background-scheme-child {
+    position: absolute;
+    top: 0px;
+    left: 155px;
+    filter: blur(200px);
+    border-radius: 50%;
+    background-color: #c5c3c4;
+    width: 352px;
+    height: 370px;
+}
+.background-scheme-item {
+    position: absolute;
+    top: 1630px;
+    left: 0px;
+    filter: blur(200px);
+    border-radius: 50%;
+    background-color: #aba8aa;
+    width: 352px;
+    height: 370px;
+}
+.background-scheme-inner {
+    position: absolute;
+    top: 460px;
+    left: 0px;
+    filter: blur(200px);
+    border-radius: 50%;
+    background-color: #b7a2c9;
+    width: 352px;
+    height: 370px;
+}
+.ellipse-div {
+    position: absolute;
+    top: 2254px;
+    left: 176px;
+    filter: blur(200px);
+    border-radius: 50%;
+    background-color: #4b3a70;
+    width: 352px;
+    height: 370px;
+}
+.background-scheme-child1 {
+    position: absolute;
+    top: 1086px;
+    left: 155px;
+    filter: blur(200px);
+    border-radius: 50%;
+    background-color: #322f42;
+    width: 352px;
+    height: 370px;
+}
+.background-scheme-child2 {
+    position: absolute;
+    top: 2778px;
+    left: 0px;
+    filter: blur(200px);
+    border-radius: 50%;
+    background-color: #322f42;
+    width: 352px;
+    height: 370px;
+}
+.background-scheme-child3 {
+    position: absolute;
+    top: 3341px;
+    left: 212px;
+    filter: blur(200px);
+    border-radius: 50%;
+    background-color: #aba8aa;
+    width: 352px;
+    height: 370px;
+}
+.frame-icon {
+    position: absolute;
+    top: 877px;
+    left: 26px;
+    width: 155px;
+    height: 162px;
+    overflow: hidden;
+    object-fit: cover;
+}
+.abhijith {
+    margin: 0;
+}
+.jtsecretary {
+    margin: 0;
+    font-size: 24px;
+}
+.abhijith-nair-jtsecretary-container {
+    position: absolute;
+    top: 746px;
+    left: 26.17px;
+    display: inline-block;
+    width: 155.9px;
+    height: 118.5px;
+    transform:  rotate(0.1deg);
+    transform-origin: 0 0;
+}
+.background-scheme-child4 {
+    position: absolute;
+    top: 1180px;
+    left: 21px;
+    width: 155px;
+    height: 162px;
+    overflow: hidden;
+    object-fit: cover;
+}
+.background-scheme-child5 {
+    position: absolute;
+    top: 1483px;
+    left: 21px;
+    width: 155px;
+    height: 162px;
+    overflow: hidden;
+    object-fit: cover;
+}
+.background-scheme-child6 {
+    position: absolute;
+    top: 1770px;
+    left: 21px;
+    width: 155px;
+    height: 163px;
+    overflow: hidden;
+    object-fit: cover;
+}
+.background-scheme-child7 {
+    position: absolute;
+    top: 2105px;
+    left: 21px;
+    width: 155px;
+    height: 166px;
+    overflow: hidden;
+    object-fit: cover;
+}
+.background-scheme-child8 {
+    position: absolute;
+    top: 2427px;
+    left: 21px;
+    width: 155px;
+    height: 162px;
+    overflow: hidden;
+    object-fit: cover;
+}
+.background-scheme-child9 {
+    position: absolute;
+    top: 2763px;
+    left: 21px;
+    width: 155px;
+    height: 162px;
+    overflow: hidden;
+    object-fit: cover;
+}
+.background-scheme-child10 {
+    position: absolute;
+    top: 3124px;
+    left: 21px;
+    width: 155px;
+    height: 162px;
+    overflow: hidden;
+    object-fit: cover;
+}
+.background-scheme-child11 {
+    position: absolute;
+    top: 877px;
+    left: 247px;
+    width: 146px;
+    height: 167px;
+    overflow: hidden;
+    object-fit: cover;
+}
+.background-scheme-child12 {
+    position: absolute;
+    top: 1180px;
+    left: 240px;
+    width: 155px;
+    height: 162px;
+    overflow: hidden;
+    object-fit: cover;
+}
+.background-scheme-child13 {
+    position: absolute;
+    top: 1483px;
+    left: 247px;
+    width: 155px;
+    height: 162px;
+    overflow: hidden;
+    object-fit: cover;
+}
+.background-scheme-child14 {
+    position: absolute;
+    top: 1770px;
+    left: 247px;
+    width: 155px;
+    height: 162px;
+    overflow: hidden;
+    object-fit: cover;
+}
+.background-scheme-child15 {
+    position: absolute;
+    top: 2105px;
+    left: 247px;
+    width: 155px;
+    height: 162px;
+    overflow: hidden;
+    object-fit: cover;
+}
+.background-scheme-child16 {
+    position: absolute;
+    top: 2427px;
+    left: 247px;
+    width: 155px;
+    height: 162px;
+    overflow: hidden;
+    object-fit: contain;
+}
+.background-scheme-child17 {
+    position: absolute;
+    top: 2760px;
+    left: 247px;
+    width: 155px;
+    height: 162px;
+    overflow: hidden;
+    object-fit: cover;
+}
+.background-scheme-child18 {
+    position: absolute;
+    top: 3121px;
+    left: 247px;
+    width: 155px;
+    height: 165px;
+    overflow: hidden;
+    object-fit: cover;
+}
+.priyanka-chavan-chair-container {
+    position: absolute;
+    top: 746px;
+    left: 220px;
+    display: inline-block;
+    width: 186px;
+    height: 163px;
+}
+.purva-tandel-content-container {
+    position: absolute;
+    top: 1044px;
+    left: 224px;
+    display: inline-block;
+    width: 211px;
+    height: 95px;
+}
+.saransh-sinha-jttech-container {
+    position: absolute;
+    top: 1044px;
+    left: 23px;
+    display: inline-block;
+    width: 159px;
+    height: 154px;
+}
+.saurabh-jadhav-treasurer-container {
+    position: absolute;
+    top: 1342px;
+    left: 23px;
+    display: inline-block;
+    width: 159px;
+    height: 100px;
+}
+.aarushi-borkar-vice-container {
+    align-self: stretch;
+    position: relative;
+    display: inline-block;
+    height: 171px;
+    flex-shrink: 0;
+}
+.aarushi-borkar-vice-chairperso-wrapper {
+    position: absolute;
+    top: 1342px;
+    left: 220px;
+    width: 201px;
+    height: 127px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+}
+.saurabh-jadhav-treasurer-container1 {
+    position: absolute;
+    top: 1645px;
+    left: 236px;
+    display: inline-block;
+    width: 174px;
+    height: 187px;
+}
+.saurabh-jadhav-treasurer-container2 {
+    position: absolute;
+    top: 1645px;
+    left: 21px;
+    display: inline-block;
+    width: 161px;
+    height: 194px;
+}
+.saurabh-jadhav-treasurer-container3 {
+    position: absolute;
+    top: 1933px;
+    left: 21px;
+    display: inline-block;
+    width: 170px;
+    height: 134px;
+}
+.saurabh-jadhav-treasurer-container4 {
+    position: absolute;
+    top: 1933px;
+    left: 254px;
+    display: inline-block;
+    width: 156px;
+    height: 198px;
+}
+.saurabh-jadhav-treasurer-container5 {
+    position: absolute;
+    top: 2271px;
+    left: 247px;
+    display: inline-block;
+    width: 163px;
+    height: 207px;
+}
+.saurabh-jadhav-treasurer-container6 {
+    position: absolute;
+    top: 2589px;
+    left: 233px;
+    display: inline-block;
+    width: 177px;
+    height: 220px;
+}
+.saurabh-jadhav-treasurer-container7 {
+    position: absolute;
+    top: 2589px;
+    left: 21px;
+    display: inline-block;
+    width: 170px;
+    height: 136px;
+}
+.saurabh-jadhav-treasurer-container8 {
+    position: absolute;
+    top: 2922px;
+    left: 233px;
+    display: inline-block;
+    width: 169px;
+    height: 250px;
+}
+.saurabh-jadhav-treasurer-container9 {
+    position: absolute;
+    top: 3286px;
+    left: 233px;
+    display: inline-block;
+    width: 177px;
+    height: 265px;
+}
+.saurabh-jadhav-treasurer-container10 {
+    position: absolute;
+    top: 3286px;
+    left: 21px;
+    display: inline-block;
+    width: 163px;
+    height: 117px;
+}
+.purva-tandel-content-container1 {
+    position: absolute;
+    top: 2925px;
+    left: 0px;
+    display: inline-block;
+    width: 191px;
+    height: 130px;
+}
+.rectangle-icon {
+    position: absolute;
+    top: 3456px;
+    left: 153px;
+    width: 117px;
+    height: 118px;
+    object-fit: cover;
+}
+.ieee-pce-all {
+    position: absolute;
+    top: 3650px;
+    left: 83px;
+    font-size: 16px;
+    font-family: Galdeano;
+    display: inline-block;
+    width: 258px;
+    height: 33px;
+}
+.background-scheme {
+    position: absolute;
+    top: -76px;
+    left: 0px;
+    width: 564px;
+    height: 3711px;
+}
+.purva-tandel-content-container2 {
+    position: absolute;
+    top: 2195px;
+    left: 0px;
+    display: inline-block;
+    width: 211px;
+    height: 95px;
+}
+.nav-bar-dark-child {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    background-color: #c5c3c4;
+    width: 428px;
+    height: 78px;
+}
+.nav-bar-dark-item {
+    position: absolute;
+    top: 11px;
+    left: 39px;
+    width: 63px;
+    height: 56px;
+    object-fit: cover;
+    cursor: pointer;
+}
+.nav-bar-dark {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 428px;
+    height: 78px;
+}
+.home-nav-button-child {
+    position: absolute;
+    top: -2px;
+    left: -2px;
+    background-color: #d9d9d9;
+    border-top: 4px solid #b7a2c9;
+    box-sizing: border-box;
+    width: 34px;
+    height: 4px;
+}
+.home-nav-button-item {
+    position: absolute;
+    top: 5px;
+    left: -2px;
+    background: linear-gradient(90deg, #b7a2c9, #4b3a70);
+    border-top: 4px solid #b7a2c9;
+    box-sizing: border-box;
+    width: 34px;
+    height: 4px;
+}
+.home-nav-button-inner {
+    position: absolute;
+    top: 13px;
+    left: -2px;
+    background-color: #d9d9d9;
+    border-top: 4px solid #b7a2c9;
+    box-sizing: border-box;
+    width: 34px;
+    height: 4px;
+}
+.home-nav-button {
+    position: absolute;
+    top: 9px;
+    left: 37px;
+    width: 30px;
+    height: 15px;
+}
+.home-nav-button-wrapper {
+    position: absolute;
+    top: 19px;
+    left: 315px;
+    width: 113px;
+    height: 48px;
+    cursor: pointer;
+}
+.meet-our-team {
+    position: absolute;
+    top: 0px;
+    left: 30px;
+    display: inline-block;
+    width: 325px;
+}
+.component-8-child {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 20px;
+    width: 359px;
+    height: 207px;
+    overflow: hidden;
+    object-fit: cover;
+}
+.component-8-item {
+    position: absolute;
+    top: 0px;
+    left: 399px;
+    border-radius: 20px;
+    width: 359px;
+    height: 207px;
+    overflow: hidden;
+    object-fit: cover;
+}
+.component-8-inner {
+    position: absolute;
+    top: 0px;
+    left: 798px;
+    border-radius: 20px;
+    width: 359px;
+    height: 207px;
+    overflow: hidden;
+    object-fit: cover;
+}
+.component-8-child1 {
+    position: absolute;
+    top: 0px;
+    left: 1197px;
+    border-radius: 20px;
+    width: 359px;
+    height: 207px;
+    overflow: hidden;
+    object-fit: cover;
+}
+.component-8-child2 {
+    position: absolute;
+    top: 0px;
+    left: 1596px;
+    border-radius: 20px;
+    width: 359px;
+    height: 207px;
+    overflow: hidden;
+    object-fit: cover;
+}
+.component-8-child3 {
+    position: absolute;
+    top: 0px;
+    left: 1995px;
+    border-radius: 20px;
+    width: 359px;
+    height: 207px;
+    overflow: hidden;
+    object-fit: cover;
+}
+.component-8 {
+    position: absolute;
+    top: 80px;
+    left: 15px;
+    width: 359px;
+    height: 207px;
+    overflow: hidden;
+}
+.year {
+    position: relative;
+}
+.component-9 {
+    align-self: stretch;
+    border-radius: 5px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    padding: 12px 10px;
+}
+.component-9-parent {
+    position: absolute;
+    top: -33px;
+    left: 0px;
+    border-radius: 5px;
+    background-color: #fff;
+    width: 177px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+}
+.choose-year {
+    position: relative;
+    font-weight: 800;
+}
+.frame-child {
+    width: 9.1px;
+    position: relative;
+    height: 5.2px;
+    object-fit: contain;
+}
+.choose-year-parent {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 5px;
+    background-color: #fff;
+    width: 177px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    padding: 12px 10px;
+    box-sizing: border-box;
+}
+.component-10 {
+    position: absolute;
+    top: 332px;
+    left: 195px;
+    border-radius: 5px;
+    width: 177px;
+    height: 109px;
+    overflow: hidden;
+    font-size: 9px;
+    color: #000;
+}
+.council {
+    position: absolute;
+    top: 334px;
+    left: 0px;
+    font-size: 24px;
+    display: inline-block;
+    width: 160px;
+    height: 42px;
+}
+.header {
+    position: absolute;
+    top: 98px;
+    left: 21px;
+    width: 374px;
+    height: 441px;
+    font-family: Inter;
+}
+.team-dark-child {
+    position: absolute;
+    top: 508px;
+    left: 23px;
+    width: 158px;
+    height: 162px;
+    overflow: hidden;
+    object-fit: cover;
+}
+.team-dark-item {
+    position: absolute;
+    top: 495px;
+    left: 248px;
+    width: 158px;
+    height: 164px;
+    overflow: hidden;
+    object-fit: cover;
+}
+.team-dark {
+    width: 100%;
+    position: relative;
+    background-color: #212531;
+    height: 3619px;
+    overflow: hidden;
+    text-align: center;
+    font-size: 36px;
+    color: #fff;
+    font-family: 'Lexend Deca';
+}
+
